@@ -6,5 +6,6 @@ public class main2 {
         System.out.println("git 3");
         System.out.println("git 4");
         System.out.println("git 5");
+        System.out.println("git 6");
     }
 }
